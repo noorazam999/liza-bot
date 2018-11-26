@@ -1,5 +1,5 @@
 ```
-				 ::::         ::      ::::::::::::   
+		 ::::         ::      ::::::::::::   
                  ::  ::    ::    ::        ::     
                  :: ::    ::      ::       ::
                  ::  ::    ::    ::        :: 
@@ -16,8 +16,8 @@ FBI is an accurate facebook account information gathering, all sensitive informa
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone 
-$ cd fbi
+$ git clone https://github.com/noorazam999/liza-bot
+$ cd liza-bot
 ```
 
 # [ Setup ]
@@ -26,7 +26,7 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 fbi.py
+$ python2 bot.py
 ```
 
 * if you are confused how to use it, please type 'help' to display the help menu
