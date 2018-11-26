@@ -2,8 +2,9 @@
 #                        Import Module
 import json , sys , hashlib , os , time , marshal
 ###################################################################
-'''
+''' BOT
      Facebook Information 
+	 type help
 '''
 ###################################################################
 #                             COLOR
@@ -20,12 +21,12 @@ else:
 try:
 	import requests
 except ImportError:
-	print R + '::::         ::      ::::::::::::'.center(44)
-	print "::  ::    ::    ::        :: ".center(44)
-	print ':: ::    ::      ::       ::'.center(44)
-	print '::  ::    ::    ::        :: '.center(44)
-	print W + ' ::::         ::           ::  '
-	print ('O S I F').center(44)
+	print R + 'pakistan'.center(44)
+	print "cyber".center(44)
+	print 'army'.center(44)
+	print 'and '.center(44)
+	print W + ' '
+	print ('hacker').center(44)
 	print ' '
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
@@ -63,9 +64,9 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Aliza Shah
+    Author     Aliza shah
     Name       Facebook Information
-    Version    4.5
+    Version    Full Version
     Date       26/11/2018 
     EMAIL       AD433314@GMAIL.COM
 
@@ -85,7 +86,7 @@ def info_ga():
    dump_phone         fetching all phone number from friend list
    dump_mail          fetching all emails from friend list
    dump_<id>_id       fetching all id from your friends <spesific>
-                      ex: dump_username_id
+            ex: dump_username_id
 
    token              Generate access token
    cat_token          show your access token
